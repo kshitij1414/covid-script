@@ -12,5 +12,7 @@ This script is dependent on an app to be completely automated(will be posted soo
 
 The user of this scripts needs to enter their respective beneficiary id in config/config.json
 
+I have added this script to display some of my recent work on github
+
 For any queries , contact me @kshitijpoojary@gmail.com 
 
