@@ -1,0 +1,16 @@
+{
+    "registeredNumber": "9594139757",
+    "districtId_1": "395",
+    "districtId_2": "307",
+    "date_1": "15-07-2021",
+    "date_2": "26-05-2021",
+    "override_beneficiaries": true,
+    "beneficiaries": [""],
+    "allowedCenters":[670466,30393,700894,700892,700887,695250,688193,700886,688205,718678,718635,578106],
+    "allowedCentersFilter": true,
+    "allowedVaccines": ["COVAXIN"],
+    "vaccineTypeFilter": true,
+    "override_pincodes": true,
+    "pincodes": [400088]
+
+}

@@ -1,0 +1,221 @@
+{
+  "centers": [
+    {
+      "center_id": 697887,
+      "name": "Ward NO 4 And 5 UPHC (18-44)",
+      "address": "Ward NO 4 And 5 UPHC",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "urban",
+      "pincode": 335001,
+      "lat": 29,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9c5fd2a9-e05d-4db4-b466-eaf1a3f65754",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 705904,
+      "name": "Urban No 2 UPHC (18-44)",
+      "address": "Urban No 2 UPHC Sri Ganganagar",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "urban",
+      "pincode": 335001,
+      "lat": 29,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "90507922-d6ac-4dba-9157-ecda9cea687e",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 697805,
+      "name": "UPHC Ashok Nagar (18-44)",
+      "address": "UPHC Ashok Nagar Opp Mausam Vibhag",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "urban",
+      "pincode": 335001,
+      "lat": 29,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1d57fa64-f409-4f30-935f-a9ed9fd6d738",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 697752,
+      "name": "Uphc Gurunanak Basti (18-44)",
+      "address": "Gurunanak Basti UPHC Sri GanganagarRajasthan",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "urban",
+      "pincode": 335001,
+      "lat": 29,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9237fa0e-f6ba-4087-a24a-3fa20fc8b1e4",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 697748,
+      "name": "UPHC PURANI ABADI (18-44)",
+      "address": "W NO 22 UPHC Purani Abadi DISPANCERI MADCHAND ASWAL VAIKA Purani Abadi SGNR",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "urban",
+      "pincode": 335001,
+      "lat": 29,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b07a3a2a-9c3a-47da-93b4-f95bcbf524fd",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 705891,
+      "name": "Shivpur CHC (18-44)",
+      "address": "Shivpur CHC",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "Sri Ganganagar",
+      "pincode": 335001,
+      "lat": 30,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "936016b7-c75e-4c32-9626-632c559532c6",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 697747,
+      "name": "DISTRICT HOSPITAL (18-44)",
+      "address": "District Hospital Suratgarh Road Sriganganagar",
+      "state_name": "Rajasthan",
+      "district_name": "Sri Ganganagar",
+      "block_name": "",
+      "pincode": 335001,
+      "lat": 29,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6fd1fb1a-2763-4e54-a1dc-a4af53b647e9",
+          "date": "21-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    }
+  ]
+}

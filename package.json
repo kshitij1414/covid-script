@@ -1,0 +1,30 @@
+{
+  "name": "cowin-autobook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cowin.js",
+  "bin": "cowin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/**/*",
+      "assets/**/*"
+    ]
+  },
+  "author": "sinshl",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "firebase": "^8.6.1",
+    "node-cron": "^3.0.0",
+    "node-notifier": "^9.0.1",
+    "node-wav-player": "^0.2.0",
+    "open": "^8.0.8",
+    "play-sound": "^1.1.3",
+    "save": "^2.4.0",
+    "utf8": "^3.0.0"
+  }
+}
